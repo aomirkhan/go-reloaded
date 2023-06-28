@@ -10,5 +10,8 @@ GO-RELOADED
 
 # To run 
 To run the project write something into sample.txt. Than write to terminal this command: 
+``` 
+go run . sample.txt result.txt
 
-go run . sample.txt result.txt 
+```
+
