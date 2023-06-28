@@ -9,4 +9,6 @@ GO-RELOADED
 4.In this project, I used the standard Go library. To all this, functions were written independently.
 
 # To run 
-To run the project write something into sample.txt. Than run command go run . sample.txt result.txt. 
+To run the project write something into sample.txt. Than write to terminal this command: 
+
+go run . sample.txt result.txt 
